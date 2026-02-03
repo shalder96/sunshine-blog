@@ -12,7 +12,7 @@ const Footer = () => {
             <div className="flex flex-col gap-4">
               <Logo width="100px" />
               <p className="text-sm text-gray-600">
-                © Copyright 2023. All Rights Reserved by DevUI.
+                © Copyright 2026. All Rights Reserved by MegaBlog.
               </p>
             </div>
           </div>
@@ -20,7 +20,7 @@ const Footer = () => {
           {/* Company */}
           <div className="w-full p-6 md:w-1/2 lg:w-2/12">
             <h3 className="mb-6 text-xs font-semibold text-gray-500 uppercase">
-              Company
+              Sunshine
             </h3>
             <ul className="space-y-4">
               <li>
